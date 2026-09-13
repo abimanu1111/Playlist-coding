@@ -1,0 +1,7 @@
+mylist=[12,16,17,11,67]
+mylist.append(44)
+mylist.insert(2,33)
+mylist.count(16)
+mylist.pop(2)
+mylist.extend([88,66,68,76])
+print(mylist)

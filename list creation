@@ -1,0 +1,4 @@
+MyList=[13,14,17,18,30]
+print(MyList[1])
+print(MyList[-2])
+print(MyList[1:])
