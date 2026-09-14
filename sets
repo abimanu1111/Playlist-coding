@@ -1,0 +1,3 @@
+dict={'Ram': 33 , 'Tom':44 , 'Leo': 37}
+dict.pop('Tom')
+print(dict)

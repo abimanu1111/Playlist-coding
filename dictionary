@@ -1,0 +1,4 @@
+keys = {'Ajay','Sundar','Sathik'}
+values = {27,33,55}
+dict1 = dict(zip(keys , values))
+print(dict1)
